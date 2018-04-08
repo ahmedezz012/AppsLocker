@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryLighter"
+        android:orientation="vertical"
+        tools:context="com.thepyramid.appslocker.locker.FragmentLocker">
+
+        <TextView
+            android:id="@+id/txtDefaultLock"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/defaultLock"
+            android:textColor="@color/white" />
+
+        <com.andrognito.patternlockview.PatternLockView
+            android:id="@+id/plvHomePattern"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            app:correctStateColor="@android:color/holo_blue_dark"
+            app:pathEndAnimationDuration="100"
+            app:wrongStateColor="@android:color/holo_red_dark" />
+
+    </LinearLayout>
+
+    <include layout="@layout/progress_layout" />
+</FrameLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238809922127",
+    "firebase_url": "https://apps-locker.firebaseio.com",
+    "project_id": "apps-locker",
+    "storage_bucket": "apps-locker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238809922127:android:aa4ca0dc7655203f",
+        "android_client_info": {
+          "package_name": "com.thepyramid.appslocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238809922127-ns5st3stk8gftabot806nflftjgoh4f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thepyramid.appslocker",
+            "certificate_hash": "c9e87aa13394143d8fd592a5ca167a76467aaf9d"
+          }
+        },
+        {
+          "client_id": "238809922127-9vadsa1o2vr3pqoj666r8rdf3dpf9trf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWU052ZsDzA_fbHfvpYFsVv1qYe60LmtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238809922127-9vadsa1o2vr3pqoj666r8rdf3dpf9trf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

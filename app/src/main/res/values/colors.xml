@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorPrimary">#FFA000</color>
+    <color name="colorPrimaryLight">#FFB300</color>
+    <color name="colorPrimaryDark">#FF8F00</color>
+    <color name="colorPrimaryLighter">#FFC107</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="changePatternOld">#FFEE58</color>
+    <color name="changePatternNew">#FDD835</color>
+    <color name="changePatternConfirm">#F9A825</color>
+    <color name="transparentGray">#8c9e9898</color>
+</resources>

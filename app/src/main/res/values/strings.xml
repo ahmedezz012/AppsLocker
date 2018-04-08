@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AppsLocker</string>
+    <string name="appIcon">The Application Icon</string>
+    <string name="lock">Lock</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="defaultLock">Set your pattern</string>
+    <string name="yourPatternMustBeThree">Pattern must be at least three dots</string>
+    <string name="drawYourPattern">Draw your lock pattern</string>
+    <string name="wrongPatternTryAgain">Wronge pattern, please try again</string>
+    <string name="useDefaultPassword">Use your default pattern</string>
+    <string name="setCustomPattern">Set custom pattern</string>
+    <string name="ok">Ok</string>
+    <string name="changePattern">Change pattern</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="noAppsLockedTillNow">No locked apps till now</string>
+    <string name="enterYourCurrentPattern">Enter your current Pattern</string>
+    <string name="enterYourNewPattern">Enter your new pattern</string>
+    <string name="confirmYourPattern">Confirm your pattern</string>
+    <string name="theNewPatternAndConfirmationNotMatch">Your new pattern and confirmation not match</string>
+    <string name="thePatternAndConfirmationNotMatch">Your pattern and confirmation not match</string>
+    <string name="patternChangedSuccessfully">Pattern change succesfully</string>
+    <string name="unlock">Unlock %s</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="alert">Alert</string>
+    <string name="overlayPermissionMessage">for android 6.0 or higher , the app need to take permission to display on top of other apps, to work and to have all of its features</string>
+    <string name="usageStatePermissionMessage">for android 5.0 or higher , the app need to take usage access permission to work and to have all of its features</string>
+    <string name="yourLockedApps">Your locked apps</string>
+    <string name="pinCode">Pin code</string>
+    <string name="submit">Submit</string>
+    <string name="youHaveToEnterPin">You have to enter pin code</string>
+    <string name="pleaseEnterPinItIsRequiredInCaseOfYouForgetThePattern">Please enter pin, it is required in case of you forget the pattern</string>
+    <string name="pleaseEnterPinItIsRequiredInCaseOfYouForgbetThePattern">Please enter pin it is required in case of you forget your pattern</string>
+    <string name="youDontHavePatternYet">You do not have pattern yet</string>
+    <string name="pleaseEnterPinToSendYouThePattern">Please enter pin to send you the pattern the pattern will be like {{0,0},{,0,1}}, the first number indicate the row , the second number indicate the column the first upper row is 0 and the left most column is the 0</string>
+    <string name="wrongPin">Wrong pin</string>
+    <string name="yourPatternIs">Your pattern is %s</string>
+    <string name="errorInGetPatternTryAgainLater">Error in get the pattern try again later</string>
+    <string name="forgetPattern">Forget pattern</string>
+    <string name="addingYourPatternToTheServerFailed">Adding your pattern to the server failed</string>
+</resources>
